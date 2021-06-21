@@ -3,8 +3,8 @@ export const theme = {
     background: '#0D133D',
     heading: '#DDe3f0',
     body: '#ABB1CC',
-    primary: '#32BD50',
+    primary: '#E51C44',
     secondary: '#495BCC',
-    
+    line: '#991F36'
   }
 }
